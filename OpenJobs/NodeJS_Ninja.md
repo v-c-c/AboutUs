@@ -41,3 +41,4 @@
 * Az anyagi megbecsülésed motorja a fejlődésed.
  
 **Amennyiben vonzó számodra a fenti pozíció és úgy érzed a célkitűzéseknek meg tudsz felelni, küldd el pályázatodat a job@virtual-call-center.eu címre a "NodeJS ninja" megjelöléssel.**
+**Jelentkezéskor írd meg, hogy a GitHub-on olvastál rólunk!**
